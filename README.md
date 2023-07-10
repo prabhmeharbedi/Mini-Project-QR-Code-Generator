@@ -20,6 +20,6 @@ To run this project, you need to have Python installed on your system. You can i
 
 For this project, the QR code is generated for the LinkedIn profile of Prabhmehar Bedi. The input URL used in the code is https://www.linkedin.com/in/prabhmehar-bedi-329835190/. The resulting QR code is stored as LinkedinID.png.
 
-Here is an example of the generated QR code:
+Here is the generated QR code:
 
 ![Alt Text](LinkedinID.png)
