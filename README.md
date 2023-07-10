@@ -10,13 +10,7 @@ To run this project, you need to have Python installed on your system. You can i
 
 - pip install pyqrcode pypng
 
-## Usage
-
-1. Open the main.py file in your preferred Python editor.
-2. Modify the data variable to contain the website URL for which you want to generate the QR code.
-3. Run the script.
-4. The QR code will be saved as LinkedinID.png in the same directory.
-
+---
 
 For this project, the QR code is generated for the LinkedIn profile of Prabhmehar Bedi. The input URL used in the code is https://www.linkedin.com/in/prabhmehar-bedi-329835190/. The resulting QR code is stored as LinkedinID.png.
 
