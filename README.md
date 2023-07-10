@@ -2,7 +2,7 @@
 
 This is a Python project that generates a QR code for a given website URL using the pyqrcode and pypng libraries.
 
-** Installation
+** Installation **
 
 To run this project, you need to have Python installed on your system. You can install the required libraries by running the following command:
 
