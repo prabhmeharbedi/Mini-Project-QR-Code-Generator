@@ -8,7 +8,7 @@ To run this project, you need to have Python installed on your system. You can i
 
 
 
-pip install pyqrcode pypng
+- pip install pyqrcode pypng
 
 ## Usage
 
