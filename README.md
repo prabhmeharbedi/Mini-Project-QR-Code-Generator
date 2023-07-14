@@ -16,4 +16,4 @@ For this project, the QR code is generated for the LinkedIn profile of Prabhmeha
 
 Here is the generated QR code:
 
-![Alt Text](LinkedinID.png)
+![Alt Text](LinkedinID.png) 
